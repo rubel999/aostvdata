@@ -8,7 +8,7 @@
         "link_priority": 0,
         "link_name": "Link-1 (Test)",
         "isNeedDrm": true,
-        "licenseUrl": "https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000077&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNTk5MTYxMzc0NzY0In0.eyJzdWIiOiIxMjg4MzYxMjg4IiwiaXNlIjp0cnVlLCJqdGkiOiI4OTgzZjk0Ny0wNDA5LTRjNTYtYmQ0NC04MzM2MDg2YWMxNzUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjE3OTg1OTYwLCJuYW1lIjoiUHJhc2FkIEVsZWN0cm9uaWNzIiwiaWF0IjoxNjE3ODk5NTYwLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTIzIn1dLCJpc3MiOiJUVE4ifQ.ZYCIlXn5vI6HMKKY81nfs1lDLy2S12wEqSqCS9FrT_U",
+        "licenseUrl": "http://138.201.121.26/aostv/lfes/tatasky@400000077",
         "uuid": 0,
         "_id": "5d16747a7e5e845cf1935811",
         "createdAt": "2019-06-28T20:11:38.696Z",
