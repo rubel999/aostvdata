@@ -1,6 +1,6 @@
 [
     {
-        "link": "?https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/esxXJZb0fmDVJLOG6stFMgb1r4hQUpVfi6qbmNjNO9YT0av4ojdNdsJTBHWOhypoX0En1nR2CDcArIcVbc0sPQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live|referer:https://pscp.tv",
+        "link": "?https://e5xx.xyz/stm-v3/api/def39.php?id=1645&quality=0&type=0|cnf-name:page_link_extractor|cnf-tokenUrl:http://168.235.105.162:92/aostv/4",
         "channel_id": "1",
         "source_url": "",
         "link_description": "",
