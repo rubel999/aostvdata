@@ -1,18 +1,16 @@
 [
 {
-        "name": "720p",
-        "logo": "https://ss.binge.buzz/uploads/tv_channel_logo/YE1poK2HsFwD152xDnk9GCzIvD9hNtuXiA.png",
-        "imgUrl": "https://ss.binge.buzz/uploads/tv_channel_logo/YE1poK2HsFwD152xDnk9GCzIvD9hNtuXiA.png",
-        "category_id": "",
-        "country_id": "5bf6d47be38102155c61e23a",
-        "priority": 0,
-        "channel_resolved_link": "",
-        "token_from_url": "http://168.235.105.162:3002/aostv/51ld?link=?https://bangalore-9.restream.io/preview/re_5494884_7cff2afe234a3ed076c6/listserver_sid-1542017737.hmp|referer:https://app.restream.io",
-        "next_url": "",
-        "_id": "1111",
-        "createdAt": "2019-12-20T13:31:11.043Z",
-        "updatedAt": "2021-04-15T17:14:46.182Z",
+        "link": "http://168.235.105.162:3002/aostv/51ld?link=?https://bangalore-9.restream.io/preview/re_5494884_7cff2afe234a3ed076c6/listserver_sid-1542017737.hmp|referer:https://app.restream.io",
+        "channel_id": "5dfccd1f54a4195c7da17556",
+        "source_url": "",
+        "link_description": "",
+        "link_type": "m3u8",
+        "link_priority": 460,
+        "link_name": "",
+        "_id": "610164fd064088a4ebb6cd2b",
+        "createdAt": "2021-07-28T14:09:01.877Z",
+        "updatedAt": "2021-07-28T14:09:01.880Z",
         "__v": 0,
-        "id": "1111"
+        "id": "610164fd064088a4ebb6cd2b"
     }
 ]
