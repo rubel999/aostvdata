@@ -14,6 +14,20 @@
         "id": "610164fd064088a4ebb6cd2b"
     },
     {
+        "link": "?https://tv.doratv.live/ipl.m3u8",
+        "channel_id": "1",
+        "source_url": "",
+        "link_description": "",
+        "link_type": "m3u8",
+        "link_priority": 460,
+        "link_name": "",
+        "_id": "610164fd064088a4ebb6cd2b",
+        "createdAt": "2021-07-28T14:09:01.877Z",
+        "updatedAt": "2021-07-28T14:09:01.880Z",
+        "__v": 0,
+        "id": "610164fd064088a4ebb6cd2b"
+    },
+    {
         "link": "?https://bangalore-9.restream.io/preview/re_5579222_d20d18f41568420e4f55/hls.m3u8|referer:https://app.restream.io",
         "channel_id": "2",
         "source_url": "",
