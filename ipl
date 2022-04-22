@@ -1,6 +1,6 @@
 [
     {
-        "link": "?http://169.254.234.197:8081/aostv/asia/playlist.m3u8|Referer:https://player.licenses4.me/|User-Agent:HDPlayer/3.5.9 (Linux;Android 10) ExoPlayerLib/2.14.1",
+        "link": "http://169.254.234.197:8081/aostv/asia/playlist.m3u8",
         "channel_id": "1",
         "source_url": "",
         "link_description": "",
